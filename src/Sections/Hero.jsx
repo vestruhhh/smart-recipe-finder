@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from '../Components/Navbar'
-import LandingLogo from '../Images/restaurant.svg'
+// import Navbar from '../Components/Navbar'
+// import LandingLogo from '../Images/restaurant.svg'
 import Logo from '../Images/cheap-dollar.png'
 import Video from '../Videos/8581127-hd_1920_1080_30fps.mp4'; // Update with your actual video file name
 
@@ -8,7 +8,7 @@ const LandingPage = () => {
     return (
         <>
             {/* <Navbar /> */}
-            <section className='relative flex justify-center items-center h-screen overflow-hidden'>
+            <section className='relative flex justify-center items-center h-screen overflow-hidden bg-black'>
                 <video
                     src={Video}
                     autoPlay
@@ -18,7 +18,7 @@ const LandingPage = () => {
                 />
                 <div className='relative flex flex-col justify-around items-center h-1/2 w-1/3 border'>
                     <div className="flex flex-row">
-                    <img src={Logo} className="h-auto max-w-full" alt="Flowbite Logo" width={100} height={50}/>
+                        <img src={Logo} className="h-auto max-w-full" alt="Flowbite Logo" width={100} height={50} />
 
                         <h1 className='text-8xl'>Frugal Feast</h1>
                     </div>
