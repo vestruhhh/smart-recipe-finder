@@ -6,6 +6,7 @@ import Footer from './Components/Footer'
 import AboutUs from './Sections/AboutUs';
 import TopRecipes from './Sections/TopRecipes';
 import ContactUs from './Sections/ContactUs';
+import Testimonials from './Sections/Testimonials';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <AboutUs />
       <TopRecipes />
       <ContactUs />
+      <Testimonials />
       <Footer />
     </>
   );
