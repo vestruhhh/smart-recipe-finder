@@ -16,14 +16,14 @@ const LandingPage = () => {
                     muted
                     className='absolute top-0 left-0 w-full h-full object-cover blur-lg'
                 />
-                <div className='relative flex flex-col justify-around items-center h-1/2 w-1/3 border'>
+                <div className='relative flex flex-col justify-around items-center h-1/2 w-1/3 '>
                     <div className="flex flex-row">
                         <img src={Logo} className="h-auto max-w-full" alt="Flowbite Logo" width={100} height={50} />
 
                         <h1 className='text-8xl'>Frugal Feast</h1>
                     </div>
                     <div>
-                        <h1 className='font-bold text-6xl text-center'>Discover Delicious Recipes with What You Have!</h1>
+                        <h1 className='font-bold text-6xl text-center'>Turn Unused Ingredients into Delicious Creations!</h1>
                     </div>
                     <div>
                         <p className='text-black text-center text-xl'>Enter your available ingredients and get recipe suggestions tailored to your dietary preferences.</p>

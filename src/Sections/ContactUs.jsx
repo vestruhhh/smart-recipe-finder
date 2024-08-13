@@ -1,12 +1,15 @@
 import React from 'react';
+import PhoneIcon from '../Images/phone_7849759.png'
+import BuildingIcon from '../Images/building.png'
+import AddressIcon from '../Images/location_535239.png'
 
 const ContactUs = () => {
     return (
         <section className='bg-gray-900 py-8'>
-            <div className=''>
+            <div className='my-16'>
                 <div className='container mx-auto px-4'>
                     <div className='text-center mb-8'>
-                        <p className='text-white text-4xl mb-4'>Contact Us</p>
+                        <p className='text-white text-4xl mb-4'>Want to Learn More?</p>
                         <p className='text-gray-400 text-center w-1/3 mx-auto text-lg'>
                             We use an agile approach to test assumptions and connect with the needs of your audience early and often.
                         </p>
@@ -76,20 +79,22 @@ const ContactUs = () => {
                         <div className='w-full md:w-1/3'>
                             <div className='flex flex-col space-y-8 text-center'>
                                 <div>
-                                    <img src="https://placehold.co/60x60" alt="" className='mx-auto mb-4' />
-                                    <p className='text-white text-xl mb-2'>Company information:</p>
+                                    <img src={BuildingIcon} alt="" className='mx-auto mb-4' />
+                                    <p className='text-white text-xl mb-2'>Company Information:</p>
                                     <p className='text-gray-400'>Themesberg LLC</p>
                                     <p className='text-gray-400'>Tax id: USXXXXXX</p>
                                 </div>
                                 <div>
-                                    <img src="https://placehold.co/70x70" alt="" className='mx-auto mb-4' />
+                                    <img src={AddressIcon} alt="" className='mx-auto mb-4' /> 
                                     <p className='text-white text-xl mb-2'>Address:</p>
                                     <p className='text-gray-400'>SILVER LAKE, United States 1941 Late Avenue </p>
-                                    <p className='text-gray-400'>Zip Code/Postal code:03875</p>
+                                    <p className='text-gray-400'>Zip Code/Postal code: 03875</p>
                                 </div>
-                                <div>
-                                    <img src="https://placehold.co/70x70" alt="" className='mx-auto mb-4' />
-                                    <p className='text-white text-xl mb-2'>Call us:</p>
+                                <div className='w-2/3 mx-auto text-center'>
+                                    <div className=''>
+                                        <img src={PhoneIcon} alt="" className='mx-auto mb-4 text-' />
+                                    </div>
+                                    <p className='text-white text-xl mb-2'>Call Us:</p>
                                     <p className='text-gray-400'>Call us to speak to a member of our team. We are always happy to help.</p>
                                     <p className='text-blue-500 font-bold'>+1 (646) 786-5060</p>
                                 </div>

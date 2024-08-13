@@ -1,25 +1,30 @@
 // import logo from './logo.svg';
 import './App.css';
-// import Navbar from './Components/Navbar';
-import Hero from './Sections/Hero';
-import Footer from './Components/Footer'
-import AboutUs from './Sections/AboutUs';
-import TopRecipes from './Sections/TopRecipes';
-import ContactUs from './Sections/ContactUs';
-import Testimonials from './Sections/Testimonials';
+import LandingPage from './Pages/LandingPage';
+import SearchRecipes from './Pages/SearchRecipes';
 
 function App() {
   return (
     <>
-      {/* <Navbar /> */}
-      <Hero />
-      <AboutUs />
-      <TopRecipes />
-      <ContactUs />
-      <Testimonials />
-      <Footer />
+      <LandingPage />
     </>
   );
 }
+
+// function App() {
+//   return (
+//     <>
+//       {/* <Navbar /> */}
+//       <Hero />
+//       <HowItWorks />
+//       <TopRecipes />
+//       <AboutUs />
+//       <Testimonials />
+//       <ContactUs />
+//       <Footer />
+//     </>
+//   );
+// }
+
 
 export default App;
