@@ -9,12 +9,13 @@ import dumplingSoup from '../Images/pexels-catscoming-955137.jpg'
 const TopRecipes = () => {
     return (
         <section className='max-w-7xl mx-auto'>
+            <hr className='w-1/3 mx-auto m-8' />
             <div className='flex flex-col items-center mb-8'>
-                <p className='font-bold text-3xl mb-4'>Top Recipes</p>
-                <p className='text-center w-1/2'>Check out our most popular recipes, each one beautifully captured in these mouthwatering pictures. From classic comfort foods to innovative new dishes, there's something for everyone to love</p>
+                <p className='text-blue-500 text-3xl mb-4'>Top Recipes</p>
+                <p className='text-center w-1/2 font-light'>Check out our most popular recipes, each one beautifully captured in these mouthwatering pictures. From classic comfort foods to innovative new dishes, there's something for everyone to love</p>
             </div>
 
-            <div className='grid gap-4 max-w-4xl mx-auto m-10'>
+            <div className='grid gap-4 mx-auto m-10 sm:w-11/12 md:max-w-4xl'>
                 <div className='h-128'>
                     <img className='w-full h-full object-cover rounded-lg' src={tomatoSoup} alt="Tomato Soup" />
                 </div>

@@ -57,7 +57,7 @@ const Footer = () => {
                     </span>
                     <div>
                         <span className='text-gray-500 text-sm'>Icons by <a href="www.freepik.com" className='underline underline-offset-3'>Freepik</a></span>
-                        <a href="https://www.flaticon.com/free-animated-icons/supermarket" title="supermarket animated icons" className='text-gray-500 text-sm'> Supermarket animated icons created by Freepik - Flaticon</a>
+                        {/* <a href="https://www.flaticon.com/free-animated-icons/supermarket" title="supermarket animated icons" className='text-gray-500 text-sm'> Supermarket animated icons created by Freepik - Flaticon</a> */}
                     </div>
                     <div class="flex mt-4 sm:justify-center sm:mt-0">
                         <a href="www.google.com" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
