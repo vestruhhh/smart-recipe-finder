@@ -35,7 +35,7 @@ const LandingPage = () => {
           </p>
         </div>
         <div className='flex flex-col sm:flex-row gap-4'>
-          <a href="#_" className="flex items-center justify-center px-6 py-3 text-base leading-6 bg-fandangoPink font-bold border-2 border-transparent rounded-full shadow-sm hover:bg-transparent hover:border-fandangoPink focus:outline-none transition duration-300 ease-in-out">
+          <a href="#learn-about" className="flex items-center justify-center px-6 py-3 text-base leading-6 bg-fandangoPink font-bold border-2 border-transparent rounded-full shadow-sm hover:bg-transparent hover:border-fandangoPink focus:outline-none transition duration-300 ease-in-out">
             Get Started
           </a>
           <Link to="./search" className="relative inline-flex items-center justify-center px-6 py-3 overflow-hidden font-medium text-indigo-600 border-2 border-fandangoPink rounded-full shadow-md group">

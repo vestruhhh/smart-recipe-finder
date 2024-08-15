@@ -1,403 +1,452 @@
 [
-    {
-      "id": "1",
-      "title": "Spaghetti Carbonara",
-      "ingredients": ["spaghetti", "egg", "parmesan", "pancetta", "black pepper"],
-      "instructions": "Cook spaghetti. Fry pancetta. Mix eggs and cheese. Combine all.",
-      "time": "30 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "2",
-      "title": "Chicken Curry",
-      "ingredients": ["chicken", "onion", "garlic", "ginger", "curry powder", "coconut milk", "tomatoes"],
-      "instructions": "Sauté onions, garlic, and ginger. Add chicken and curry powder. Stir in tomatoes and coconut milk. Simmer.",
-      "time": "45 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "3",
-      "title": "Vegetable Stir-Fry",
-      "ingredients": ["bell pepper", "broccoli", "carrot", "soy sauce", "ginger", "garlic"],
-      "instructions": "Stir-fry vegetables with garlic and ginger. Add soy sauce and cook until tender.",
-      "time": "20 minutes",
-      "diet": "vegan"
-    },
-    {
-      "id": "4",
-      "title": "Caesar Salad",
-      "ingredients": ["romaine lettuce", "croutons", "parmesan", "Caesar dressing"],
-      "instructions": "Toss lettuce with Caesar dressing. Top with croutons and parmesan.",
-      "time": "15 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "5",
-      "title": "Quinoa Salad",
-      "ingredients": ["quinoa", "cucumber", "cherry tomatoes", "feta cheese", "olives", "lemon juice"],
-      "instructions": "Cook quinoa and let it cool. Mix with vegetables, feta, and olives. Dress with lemon juice.",
-      "time": "25 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "6",
-      "title": "Beef Tacos",
-      "ingredients": ["ground beef", "taco seasoning", "tortillas", "lettuce", "cheese", "salsa"],
-      "instructions": "Cook beef with taco seasoning. Fill tortillas with beef, lettuce, cheese, and salsa.",
-      "time": "30 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "7",
-      "title": "Mushroom Risotto",
-      "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "vegetable broth", "parmesan"],
-      "instructions": "Sauté onions and garlic. Add mushrooms and rice. Gradually stir in broth until rice is cooked. Finish with parmesan.",
-      "time": "40 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "8",
-      "title": "Greek Yogurt Smoothie",
-      "ingredients": ["greek yogurt", "banana", "berries", "honey", "milk"],
-      "instructions": "Blend all ingredients until smooth.",
-      "time": "10 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "9",
-      "title": "Baked Salmon",
-      "ingredients": ["salmon fillets", "lemon", "dill", "olive oil", "salt", "pepper"],
-      "instructions": "Season salmon with salt, pepper, and dill. Bake with lemon slices on top until cooked through.",
-      "time": "25 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "10",
-      "title": "Sweet Potato Fries",
-      "ingredients": ["sweet potatoes", "olive oil", "paprika", "salt", "pepper"],
-      "instructions": "Cut sweet potatoes into fries. Toss with olive oil, paprika, salt, and pepper. Bake until crispy.",
-      "time": "35 minutes",
-      "diet": "vegan"
-    },
-    {
-      "id": "11",
-      "title": "Chicken Alfredo",
-      "ingredients": ["fettuccine", "chicken breast", "heavy cream", "parmesan", "butter", "garlic"],
-      "instructions": "Cook fettuccine. Sauté chicken with garlic. Make Alfredo sauce with cream, butter, and parmesan. Combine all.",
-      "time": "40 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "12",
-      "title": "Vegetable Soup",
-      "ingredients": ["carrot", "celery", "potato", "onion", "vegetable broth", "tomatoes"],
-      "instructions": "Sauté onions, carrots, and celery. Add potatoes, tomatoes, and broth. Simmer until vegetables are tender.",
-      "time": "40 minutes",
-      "diet": "vegan"
-    },
-    {
-      "id": "13",
-      "title": "Pancakes",
-      "ingredients": ["flour", "milk", "egg", "baking powder", "sugar", "butter"],
-      "instructions": "Mix dry ingredients. Add milk, egg, and melted butter. Cook on a griddle until golden brown.",
-      "time": "20 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "14",
-      "title": "Caprese Salad",
-      "ingredients": ["tomatoes", "mozzarella", "basil", "olive oil", "balsamic vinegar"],
-      "instructions": "Layer tomatoes and mozzarella. Top with basil. Drizzle with olive oil and balsamic vinegar.",
-      "time": "10 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "15",
-      "title": "Tuna Salad",
-      "ingredients": ["canned tuna", "mayonnaise", "celery", "onion", "pickles", "lettuce"],
-      "instructions": "Mix tuna with mayonnaise, celery, onion, and pickles. Serve over lettuce.",
-      "time": "15 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "16",
-      "title": "Lentil Chili",
-      "ingredients": ["lentils", "onion", "garlic", "tomatoes", "chili powder", "cumin"],
-      "instructions": "Sauté onions and garlic. Add lentils, tomatoes, and spices. Simmer until lentils are tender.",
-      "time": "45 minutes",
-      "diet": "vegan"
-    },
-    {
-      "id": "17",
-      "title": "Pasta Primavera",
-      "ingredients": ["pasta", "bell peppers", "zucchini", "cherry tomatoes", "olive oil", "parmesan"],
-      "instructions": "Cook pasta. Sauté vegetables in olive oil. Toss with pasta and parmesan.",
-      "time": "30 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "18",
-      "title": "Beef Stroganoff",
-      "ingredients": ["beef strips", "mushrooms", "onion", "garlic", "sour cream", "beef broth"],
-      "instructions": "Cook beef and mushrooms with onion and garlic. Stir in sour cream and beef broth. Serve over noodles.",
-      "time": "40 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "19",
-      "title": "Chickpea Salad",
-      "ingredients": ["chickpeas", "cucumber", "cherry tomatoes", "red onion", "feta cheese", "lemon vinaigrette"],
-      "instructions": "Mix chickpeas with vegetables and feta. Dress with lemon vinaigrette.",
-      "time": "20 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "20",
-      "title": "Shrimp Scampi",
-      "ingredients": ["shrimp", "garlic", "butter", "lemon", "parsley", "linguine"],
-      "instructions": "Cook linguine. Sauté shrimp with garlic in butter. Toss with linguine, lemon, and parsley.",
-      "time": "25 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "21",
-      "title": "Baked Ziti",
-      "ingredients": ["ziti pasta", "marinara sauce", "mozzarella", "parmesan", "ricotta"],
-      "instructions": "Cook ziti. Mix with marinara, ricotta, and mozzarella. Bake with parmesan on top.",
-      "time": "45 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "22",
-      "title": "Stuffed Bell Peppers",
-      "ingredients": ["bell peppers", "ground beef", "rice", "tomato sauce", "cheese"],
-      "instructions": "Stuff bell peppers with a mixture of ground beef, rice, and tomato sauce. Bake and top with cheese.",
-      "time": "50 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "23",
-      "title": "Frittata",
-      "ingredients": ["eggs", "spinach", "cheese", "onion", "tomatoes", "salt", "pepper"],
-      "instructions": "Whisk eggs and mix with vegetables and cheese. Cook in a skillet until set.",
-      "time": "30 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "24",
-      "title": "Cobb Salad",
-      "ingredients": ["lettuce", "chicken", "bacon", "egg", "blue cheese", "tomato", "avocado"],
-      "instructions": "Arrange ingredients on lettuce. Serve with dressing.",
-      "time": "25 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "25",
-      "title": "Spaghetti Bolognese",
-      "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic", "carrot"],
-      "instructions": "Cook spaghetti. Sauté beef with onion, garlic, and carrot. Add tomato sauce and simmer. Combine with spaghetti.",
-      "time": "45 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "26",
-      "title": "Chicken Parmesan",
-      "ingredients": ["chicken breast", "bread crumbs", "mozzarella", "parmesan", "marinara sauce"],
-      "instructions": "Bread and fry chicken. Top with marinara sauce and cheese. Bake until cheese is melted.",
-      "time": "40 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "27",
-      "title": "Garlic Mashed Potatoes",
-      "ingredients": ["potatoes", "garlic", "butter", "cream", "salt", "pepper"],
-      "instructions": "Boil potatoes with garlic. Mash with butter, cream, salt, and pepper.",
-      "time": "30 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "28",
-      "title": "Falafel",
-      "ingredients": ["chickpeas", "onion", "garlic", "cumin", "coriander", "parsley"],
-      "instructions": "Blend chickpeas with onion, garlic, and spices. Form into balls and fry.",
-      "time": "45 minutes",
-      "diet": "vegan"
-    },
-    {
-      "id": "29",
-      "title": "Tzatziki",
-      "ingredients": ["Greek yogurt", "cucumber", "garlic", "dill", "lemon juice"],
-      "instructions": "Mix Greek yogurt with grated cucumber, minced garlic, dill, and lemon juice.",
-      "time": "10 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "30",
-      "title": "Eggplant Parmesan",
-      "ingredients": ["eggplant", "marinara sauce", "mozzarella", "parmesan", "bread crumbs"],
-      "instructions": "Bread and fry eggplant slices. Layer with marinara sauce and cheese. Bake until bubbly.",
-      "time": "50 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "31",
-      "title": "Chicken Caesar Wrap",
-      "ingredients": ["chicken", "Caesar dressing", "lettuce", "parmesan", "tortilla"],
-      "instructions": "Mix chicken with Caesar dressing. Wrap with lettuce and parmesan in a tortilla.",
-      "time": "20 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "32",
-      "title": "Minestrone Soup",
-      "ingredients": ["onion", "carrot", "celery", "zucchini", "tomatoes", "vegetable broth", "pasta"],
-      "instructions": "Sauté vegetables. Add broth and pasta. Simmer until pasta is cooked.",
-      "time": "40 minutes",
-      "diet": "vegan"
-    },
-    {
-      "id": "33",
-      "title": "Avocado Toast",
-      "ingredients": ["bread", "avocado", "lemon juice", "salt", "pepper"],
-      "instructions": "Mash avocado with lemon juice, salt, and pepper. Spread on toasted bread.",
-      "time": "10 minutes",
-      "diet": "vegan"
-    },
-    {
-      "id": "34",
-      "title": "Beef and Broccoli",
-      "ingredients": ["beef strips", "broccoli", "soy sauce", "ginger", "garlic", "rice"],
-      "instructions": "Cook beef with garlic and ginger. Add broccoli and soy sauce. Serve over rice.",
-      "time": "30 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "35",
-      "title": "Fruit Smoothie",
-      "ingredients": ["banana", "mixed berries", "yogurt", "honey"],
-      "instructions": "Blend all ingredients until smooth.",
-      "time": "10 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "36",
-      "title": "Chicken Fajitas",
-      "ingredients": ["chicken breast", "bell peppers", "onion", "fajita seasoning", "tortillas"],
-      "instructions": "Cook chicken with peppers, onions, and fajita seasoning. Serve with tortillas.",
-      "time": "30 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "37",
-      "title": "Cornbread",
-      "ingredients": ["cornmeal", "flour", "milk", "egg", "baking powder", "butter"],
-      "instructions": "Mix dry ingredients. Add wet ingredients. Bake until golden brown.",
-      "time": "35 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "38",
-      "title": "Tomato Basil Soup",
-      "ingredients": ["tomatoes", "basil", "onion", "garlic", "vegetable broth"],
-      "instructions": "Sauté onions and garlic. Add tomatoes and broth. Simmer and blend. Stir in basil.",
-      "time": "30 minutes",
-      "diet": "vegan"
-    },
-    {
-      "id": "39",
-      "title": "Pita Bread Pizza",
-      "ingredients": ["pita bread", "tomato sauce", "cheese", "pepperoni", "bell peppers"],
-      "instructions": "Top pita with sauce, cheese, and toppings. Bake until cheese is melted.",
-      "time": "20 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "40",
-      "title": "Greek Salad",
-      "ingredients": ["cucumber", "tomatoes", "olives", "feta cheese", "red onion", "olive oil"],
-      "instructions": "Mix all ingredients and dress with olive oil.",
-      "time": "15 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "41",
-      "title": "Chili Con Carne",
-      "ingredients": ["ground beef", "beans", "tomatoes", "onion", "chili powder", "cumin"],
-      "instructions": "Cook beef with onion and spices. Add beans and tomatoes. Simmer.",
-      "time": "45 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "42",
-      "title": "Tacos al Pastor",
-      "ingredients": ["pork", "pineapple", "tortillas", "onion", "cilantro", "lime"],
-      "instructions": "Marinate pork and grill. Serve on tortillas with pineapple, onion, and cilantro.",
-      "time": "60 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "43",
-      "title": "Chicken Noodle Soup",
-      "ingredients": ["chicken", "noodles", "carrot", "celery", "onion", "chicken broth"],
-      "instructions": "Cook chicken with vegetables. Add broth and noodles. Simmer.",
-      "time": "40 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "44",
-      "title": "Bulgur Wheat Salad",
-      "ingredients": ["bulgur wheat", "cucumber", "tomatoes", "onion", "parsley", "lemon juice"],
-      "instructions": "Cook bulgur wheat. Mix with vegetables and parsley. Dress with lemon juice.",
-      "time": "25 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "45",
-      "title": "Pumpkin Soup",
-      "ingredients": ["pumpkin", "onion", "garlic", "vegetable broth", "cream"],
-      "instructions": "Cook pumpkin with onions and garlic. Add broth and blend. Stir in cream.",
-      "time": "40 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "46",
-      "title": "Stuffed Mushrooms",
-      "ingredients": ["mushrooms", "cream cheese", "garlic", "parsley", "bread crumbs"],
-      "instructions": "Stuff mushrooms with a mixture of cream cheese, garlic, and parsley. Top with bread crumbs and bake.",
-      "time": "30 minutes",
-      "diet": "vegetarian"
-    },
-    {
-      "id": "47",
-      "title": "BBQ Chicken",
-      "ingredients": ["chicken", "BBQ sauce", "olive oil", "salt", "pepper"],
-      "instructions": "Marinate chicken in BBQ sauce. Bake or grill until cooked through.",
-      "time": "40 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "48",
-      "title": "Omelette",
-      "ingredients": ["eggs", "milk", "cheese", "ham", "spinach", "salt", "pepper"],
-      "instructions": "Whisk eggs and milk. Cook in a pan. Add cheese, ham, and spinach. Fold and cook until set.",
-      "time": "15 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "49",
-      "title": "Pork Stir-Fry",
-      "ingredients": ["pork strips", "bell peppers", "snow peas", "soy sauce", "ginger", "garlic"],
-      "instructions": "Stir-fry pork with vegetables, ginger, and garlic. Add soy sauce and cook until done.",
-      "time": "25 minutes",
-      "diet": "none"
-    },
-    {
-      "id": "50",
-      "title": "Apple Crisp",
-      "ingredients": ["apples", "brown sugar", "oats", "flour", "butter", "cinnamon"],
-      "instructions": "Mix sliced apples with cinnamon and sugar. Top with a mixture of oats, flour, butter, and brown sugar. Bake until crispy.",
-      "time": "50 minutes",
-      "diet": "vegetarian"
-    }
-  ]
-  
+  {
+    "id": "1",
+    "title": "Spaghetti Carbonara",
+    "ingredients": ["spaghetti", "egg", "parmesan", "pancetta", "black pepper"],
+    "instructions": "Cook spaghetti. Fry pancetta. Mix eggs and cheese. Combine all.",
+    "time": "30 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/spaghetti_carbonara.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Chicken Curry",
+    "ingredients": ["chicken", "onion", "garlic", "ginger", "curry powder", "coconut milk", "tomatoes"],
+    "instructions": "Sauté onions, garlic, and ginger. Add chicken and curry powder. Stir in tomatoes and coconut milk. Simmer.",
+    "time": "45 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/chicken_curry.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Vegetable Stir-Fry",
+    "ingredients": ["bell pepper", "broccoli", "carrot", "soy sauce", "ginger", "garlic"],
+    "instructions": "Stir-fry vegetables with garlic and ginger. Add soy sauce and cook until tender.",
+    "time": "20 minutes",
+    "diet": "vegan",
+    "img": "../Images/Recipes/vegetable_stir_fry.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Caesar Salad",
+    "ingredients": ["romaine lettuce", "croutons", "parmesan", "Caesar dressing"],
+    "instructions": "Toss lettuce with Caesar dressing. Top with croutons and parmesan.",
+    "time": "15 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/caesar_salad.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Quinoa Salad",
+    "ingredients": ["quinoa", "cucumber", "cherry tomatoes", "feta cheese", "olives", "lemon juice"],
+    "instructions": "Cook quinoa and let it cool. Mix with vegetables, feta, and olives. Dress with lemon juice.",
+    "time": "25 minutes",
+    "diet": "vegetarian",
+    "img": "../Images/Recipes/quinoa_salad.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Beef Tacos",
+    "ingredients": ["ground beef", "taco seasoning", "tortillas", "lettuce", "cheese", "salsa"],
+    "instructions": "Cook beef with taco seasoning. Fill tortillas with beef, lettuce, cheese, and salsa.",
+    "time": "30 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/beef_tacos.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Mushroom Risotto",
+    "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "vegetable broth", "parmesan"],
+    "instructions": "Sauté onions and garlic. Add mushrooms and rice. Gradually stir in broth until rice is cooked. Finish with parmesan.",
+    "time": "40 minutes",
+    "diet": "vegetarian",
+    "img": "../Images/Recipes/mushroom_risotto.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Greek Yogurt Smoothie",
+    "ingredients": ["greek yogurt", "banana", "berries", "honey", "milk"],
+    "instructions": "Blend all ingredients until smooth.",
+    "time": "10 minutes",
+    "diet": "vegetarian",
+    "img": "../Images/Recipes/greek_yogurt_smoothie.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Baked Salmon",
+    "ingredients": ["salmon fillets", "lemon", "dill", "olive oil", "salt", "pepper"],
+    "instructions": "Season salmon with salt, pepper, and dill. Bake with lemon slices on top until cooked through.",
+    "time": "25 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/baked_salmon.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Sweet Potato Fries",
+    "ingredients": ["sweet potatoes", "olive oil", "paprika", "salt", "pepper"],
+    "instructions": "Cut sweet potatoes into fries. Toss with olive oil, paprika, salt, and pepper. Bake until crispy.",
+    "time": "35 minutes",
+    "diet": "vegan",
+    "img": "../Images/Recipes/sweet_potato_fries.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Chicken Alfredo",
+    "ingredients": ["fettuccine", "chicken breast", "heavy cream", "parmesan", "butter", "garlic"],
+    "instructions": "Cook fettuccine. Sauté chicken with garlic. Make Alfredo sauce with cream, butter, and parmesan. Combine all.",
+    "time": "40 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/chicken_alfredo.jpg"
+  },
+  {
+    "id": "12",
+    "title": "Vegetable Soup",
+    "ingredients": ["carrot", "celery", "potato", "onion", "vegetable broth", "tomatoes"],
+    "instructions": "Sauté onions, carrots, and celery. Add potatoes, tomatoes, and broth. Simmer until vegetables are tender.",
+    "time": "40 minutes",
+    "diet": "vegan",
+    "img": "../Images/Recipes/vegetable_soup.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Pancakes",
+    "ingredients": ["flour", "milk", "egg", "baking powder", "sugar", "butter"],
+    "instructions": "Mix dry ingredients. Add milk, egg, and melted butter. Cook on a griddle until golden brown.",
+    "time": "20 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/pancakes.jpg"
+  },
+  {
+    "id": "14",
+    "title": "Caprese Salad",
+    "ingredients": ["tomatoes", "mozzarella", "basil", "olive oil", "balsamic vinegar"],
+    "instructions": "Layer tomatoes and mozzarella. Top with basil. Drizzle with olive oil and balsamic vinegar.",
+    "time": "10 minutes",
+    "diet": "vegetarian",
+    "img": "../Images/Recipes/caprese_salad.jpg"
+  },
+  {
+    "id": "15",
+    "title": "Tuna Salad",
+    "ingredients": ["canned tuna", "mayonnaise", "celery", "onion", "pickles", "lettuce"],
+    "instructions": "Mix tuna with mayonnaise, celery, onion, and pickles. Serve over lettuce.",
+    "time": "15 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/tuna_salad.jpg"
+  },
+  {
+    "id": "16",
+    "title": "Lentil Chili",
+    "ingredients": ["lentils", "onion", "garlic", "tomatoes", "chili powder", "cumin"],
+    "instructions": "Sauté onions and garlic. Add lentils, tomatoes, and spices. Simmer until lentils are tender.",
+    "time": "45 minutes",
+    "diet": "vegan",
+    "img": "../Images/Recipes/lentil_chili.jpg"
+  },
+  {
+    "id": "17",
+    "title": "Pasta Primavera",
+    "ingredients": ["pasta", "bell peppers", "zucchini", "cherry tomatoes", "olive oil", "parmesan"],
+    "instructions": "Cook pasta. Sauté vegetables in olive oil. Toss with pasta and parmesan.",
+    "time": "30 minutes",
+    "diet": "vegetarian",
+    "img": "../Images/Recipes/pasta_primavera.jpg"
+  },
+  {
+    "id": "18",
+    "title": "Beef Stroganoff",
+    "ingredients": ["beef strips", "mushrooms", "onion", "garlic", "sour cream", "beef broth"],
+    "instructions": "Cook beef and mushrooms with onion and garlic. Stir in sour cream and beef broth. Serve over noodles.",
+    "time": "40 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/beef_stroganoff.jpg"
+  },
+  {
+    "id": "19",
+    "title": "Chickpea Salad",
+    "ingredients": ["chickpeas", "cucumber", "cherry tomatoes", "red onion", "feta cheese", "lemon vinaigrette"],
+    "instructions": "Mix chickpeas with vegetables and feta. Dress with lemon vinaigrette.",
+    "time": "20 minutes",
+    "diet": "vegetarian",
+    "img": "../Images/Recipes/chickpea_salad.jpg"
+  },
+  {
+    "id": "20",
+    "title": "Shrimp Scampi",
+    "ingredients": ["shrimp", "garlic", "butter", "lemon", "parsley", "linguine"],
+    "instructions": "Cook linguine. Sauté shrimp with garlic in butter. Toss with linguine, lemon, and parsley.",
+    "time": "25 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/shrimp_scampi.jpg"
+  },
+  {
+    "id": "21",
+    "title": "Baked Ziti",
+    "ingredients": ["ziti pasta", "marinara sauce", "mozzarella", "parmesan", "ricotta"],
+    "instructions": "Cook ziti. Mix with marinara, ricotta, and mozzarella. Bake until bubbly.",
+    "time": "40 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/baked_ziti.jpg"
+  },
+  {
+    "id": "22",
+    "title": "Chocolate Chip Cookies",
+    "ingredients": ["flour", "sugar", "brown sugar", "butter", "eggs", "chocolate chips", "vanilla extract"],
+    "instructions": "Mix ingredients and drop spoonfuls onto a baking sheet. Bake until golden.",
+    "time": "30 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/chocolate_chip_cookies.jpg"
+  },
+  {
+    "id": "23",
+    "title": "Beef Burgers",
+    "ingredients": ["ground beef", "burger buns", "lettuce", "tomato", "onion", "cheese", "ketchup"],
+    "instructions": "Form beef into patties and grill. Serve on buns with lettuce, tomato, onion, cheese, and ketchup.",
+    "time": "30 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/beef_burgers.jpg"
+  },
+  {
+    "id": "24",
+    "title": "Vegetarian Chili",
+    "ingredients": ["kidney beans", "black beans", "corn", "tomatoes", "onion", "chili powder"],
+    "instructions": "Combine all ingredients in a pot. Simmer until flavors meld.",
+    "time": "45 minutes",
+    "diet": "vegan",
+    "img": "../Images/Recipes/vegetarian_chili.jpg"
+  },
+  {
+    "id": "25",
+    "title": "Garlic Butter Shrimp",
+    "ingredients": ["shrimp", "butter", "garlic", "parsley", "lemon juice"],
+    "instructions": "Sauté shrimp in garlic butter. Finish with parsley and lemon juice.",
+    "time": "20 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/garlic_butter_shrimp.jpg"
+  },
+  {
+    "id": "26",
+    "title": "Crispy Chicken Wings",
+    "ingredients": ["chicken wings", "flour", "baking powder", "salt", "pepper"],
+    "instructions": "Toss wings in flour and seasoning. Bake until crispy.",
+    "time": "40 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/crispy_chicken_wings.jpg"
+  },
+  {
+    "id": "27",
+    "title": "Stuffed Bell Peppers",
+    "ingredients": ["bell peppers", "ground beef", "rice", "tomato sauce", "onion", "cheese"],
+    "instructions": "Stuff peppers with a mixture of beef, rice, and onion. Top with tomato sauce and cheese. Bake until peppers are tender.",
+    "time": "45 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/stuffed_bell_peppers.jpg"
+  },
+  {
+    "id": "28",
+    "title": "Creamy Tomato Soup",
+    "ingredients": ["tomatoes", "onion", "garlic", "heavy cream", "vegetable broth", "basil"],
+    "instructions": "Sauté onions and garlic. Add tomatoes and broth. Simmer, then blend. Stir in cream and basil.",
+    "time": "35 minutes",
+    "diet": "vegetarian",
+    "img": "../Images/Recipes/creamy_tomato_soup.jpg"
+  },
+  {
+    "id": "29",
+    "title": "Chicken Parmesan",
+    "ingredients": ["chicken breasts", "bread crumbs", "egg", "marinara sauce", "mozzarella", "parmesan"],
+    "instructions": "Bread and fry chicken. Top with marinara sauce and cheese. Bake until cheese is melted.",
+    "time": "45 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/chicken_parmesan.jpg"
+  },
+  {
+    "id": "30",
+    "title": "Avocado Toast",
+    "ingredients": ["bread", "avocado", "lemon juice", "salt", "pepper", "red pepper flakes"],
+    "instructions": "Toast bread. Mash avocado with lemon juice, salt, and pepper. Spread on toast and top with red pepper flakes.",
+    "time": "10 minutes",
+    "diet": "vegan",
+    "img": "../Images/Recipes/avocado_toast.jpg"
+  },
+  {
+    "id": "31",
+    "title": "Chicken Quesadillas",
+    "ingredients": ["flour tortillas", "chicken", "cheese", "bell peppers", "onion"],
+    "instructions": "Fill tortillas with chicken, cheese, and vegetables. Cook in a skillet until cheese is melted and tortillas are crispy.",
+    "time": "25 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/chicken_quesadillas.jpg"
+  },
+  {
+    "id": "32",
+    "title": "Tom Yum Soup",
+    "ingredients": ["shrimp", "lemongrass", "lime leaves", "chili paste", "mushrooms", "fish sauce"],
+    "instructions": "Simmer lemongrass, lime leaves, and chili paste. Add shrimp and mushrooms. Season with fish sauce and lime juice.",
+    "time": "30 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/tom_yum_soup.jpg"
+  },
+  {
+    "id": "33",
+    "title": "Eggplant Parmesan",
+    "ingredients": ["eggplant", "marinara sauce", "mozzarella", "parmesan", "bread crumbs"],
+    "instructions": "Bread and fry eggplant slices. Layer with marinara sauce and cheese. Bake until bubbly.",
+    "time": "50 minutes",
+    "diet": "vegetarian",
+    "img": "../Images/Recipes/eggplant_parmesan.jpg"
+  },
+  {
+    "id": "34",
+    "title": "Pulled Pork Sandwiches",
+    "ingredients": ["pork shoulder", "bbq sauce", "buns", "coleslaw"],
+    "instructions": "Slow cook pork until tender. Shred and mix with BBQ sauce. Serve on buns with coleslaw.",
+    "time": "8 hours",
+    "diet": "none",
+    "img": "../Images/Recipes/pulled_pork_sandwiches.jpg"
+  },
+  {
+    "id": "35",
+    "title": "Balsamic Glazed Chicken",
+    "ingredients": ["chicken breasts", "balsamic vinegar", "honey", "garlic", "rosemary"],
+    "instructions": "Sauté chicken with garlic and rosemary. Glaze with balsamic vinegar and honey until reduced.",
+    "time": "30 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/balsamic_glazed_chicken.jpg"
+  },
+  {
+    "id": "36",
+    "title": "Pesto Pasta",
+    "ingredients": ["pasta", "pesto sauce", "parmesan", "cherry tomatoes"],
+    "instructions": "Cook pasta. Toss with pesto sauce, cherry tomatoes, and parmesan.",
+    "time": "20 minutes",
+    "diet": "vegetarian",
+    "img": "../Images/Recipes/pesto_pasta.jpg"
+  },
+  {
+    "id": "37",
+    "title": "Mango Salsa",
+    "ingredients": ["mango", "red onion", "cilantro", "lime juice", "jalapeño"],
+    "instructions": "Mix diced mango with red onion, cilantro, lime juice, and jalapeño.",
+    "time": "15 minutes",
+    "diet": "vegan",
+    "img": "../Images/Recipes/mango_salsa.jpg"
+  },
+  {
+    "id": "38",
+    "title": "Clam Chowder",
+    "ingredients": ["clams", "potatoes", "onion", "celery", "cream", "bacon"],
+    "instructions": "Cook bacon and vegetables. Add clams, potatoes, and cream. Simmer until thickened.",
+    "time": "50 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/clam_chowder.jpg"
+  },
+  {
+    "id": "39",
+    "title": "Buffalo Wings",
+    "ingredients": ["chicken wings", "hot sauce", "butter", "garlic powder", "celery"],
+    "instructions": "Toss wings in hot sauce and butter. Bake or fry until crispy. Serve with celery and ranch dressing.",
+    "time": "40 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/buffalo_wings.jpg"
+  },
+  {
+    "id": "40",
+    "title": "Churros",
+    "ingredients": ["flour", "sugar", "butter", "eggs", "cinnamon", "vanilla extract"],
+    "instructions": "Mix dough and pipe into strips. Fry until golden. Roll in cinnamon sugar.",
+    "time": "35 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/churros.jpg"
+  },
+  {
+    "id": "41",
+    "title": "Falafel",
+    "ingredients": ["chickpeas", "onion", "garlic", "cumin", "coriander", "flour"],
+    "instructions": "Blend chickpeas with spices and onion. Form into balls and fry until golden.",
+    "time": "30 minutes",
+    "diet": "vegan",
+    "img": "../Images/Recipes/falafel.jpg"
+  },
+  {
+    "id": "42",
+    "title": "Garlic Parmesan Pasta",
+    "ingredients": ["pasta", "garlic", "parmesan", "butter", "parsley"],
+    "instructions": "Cook pasta. Sauté garlic in butter. Toss pasta with garlic, parmesan, and parsley.",
+    "time": "20 minutes",
+    "diet": "vegetarian",
+    "img": "../Images/Recipes/garlic_parmesan_pasta.jpg"
+  },
+  {
+    "id": "43",
+    "title": "Chicken Fried Rice",
+    "ingredients": ["rice", "chicken", "peas", "carrots", "soy sauce", "egg"],
+    "instructions": "Stir-fry chicken and vegetables. Add rice and soy sauce. Stir in beaten egg and cook until set.",
+    "time": "30 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/chicken_fried_rice.jpg"
+  },
+  {
+    "id": "44",
+    "title": "Beef and Broccoli",
+    "ingredients": ["beef strips", "broccoli", "soy sauce", "garlic", "ginger", "cornstarch"],
+    "instructions": "Stir-fry beef with garlic and ginger. Add broccoli and soy sauce. Thicken with cornstarch.",
+    "time": "25 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/beef_and_broccoli.jpg"
+  },
+  {
+    "id": "45",
+    "title": "Lemon Bars",
+    "ingredients": ["flour", "sugar", "butter", "eggs", "lemon juice", "powdered sugar"],
+    "instructions": "Make crust with flour, sugar, and butter. Bake. Mix filling with eggs and lemon juice. Pour over crust and bake until set. Dust with powdered sugar.",
+    "time": "45 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/lemon_bars.jpg"
+  },
+  {
+    "id": "46",
+    "title": "Cucumber Mint Salad",
+    "ingredients": ["cucumber", "mint", "lemon juice", "olive oil", "salt"],
+    "instructions": "Combine sliced cucumber with mint, lemon juice, and olive oil. Season with salt.",
+    "time": "10 minutes",
+    "diet": "vegan",
+    "img": "../Images/Recipes/cucumber_mint_salad.jpg"
+  },
+  {
+    "id": "47",
+    "title": "Chicken Enchiladas",
+    "ingredients": ["chicken", "tortillas", "enchilada sauce", "cheese", "onion", "sour cream"],
+    "instructions": "Fill tortillas with chicken and onion. Roll up and place in a baking dish. Top with enchilada sauce and cheese. Bake until bubbly.",
+    "time": "45 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/chicken_enchiladas.jpg"
+  },
+  {
+    "id": "48",
+    "title": "Pear and Gorgonzola Salad",
+    "ingredients": ["pears", "gorgonzola", "walnuts", "mixed greens", "balsamic vinaigrette"],
+    "instructions": "Toss mixed greens with sliced pears, crumbled gorgonzola, and walnuts. Dress with balsamic vinaigrette.",
+    "time": "15 minutes",
+    "diet": "vegetarian",
+    "img": "../Images/Recipes/pear_and_gorgonzola_salad.jpg"
+  },
+  {
+    "id": "49",
+    "title": "Pork Schnitzel",
+    "ingredients": ["pork chops", "bread crumbs", "flour", "egg", "lemon", "parsley"],
+    "instructions": "Bread and fry pork chops. Serve with lemon wedges and parsley.",
+    "time": "30 minutes",
+    "diet": "none",
+    "img": "../Images/Recipes/pork_schnitzel.jpg"
+  },
+  {
+    "id": "50",
+    "title": "Zucchini Noodles",
+    "ingredients": ["zucchini", "olive oil", "garlic", "parmesan", "cherry tomatoes"],
+    "instructions": "Sauté zucchini noodles with garlic in olive oil. Toss with cherry tomatoes and parmesan.",
+    "time": "15 minutes",
+    "diet": "vegan",
+    "img": "../Images/Recipes/zucchini_noodles.jpg"
+  }
+]

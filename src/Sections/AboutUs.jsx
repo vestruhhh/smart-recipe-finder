@@ -7,7 +7,7 @@ const AboutUs = () => {
   return (
     <section className='flex flex-col max-w-full mx-auto'>
       <div className='flex flex-col justify-center items-center text-gray-900 mt-8 mb-16 text-center w-2/3 mx-auto'>
-        <h1 className='text-3xl font-bold'>What is Frugal Feast?</h1>
+        <h1 className='text-3xl font-bold' id="learn-about">What is Frugal Feast?</h1>
         <p className='sm:w-full md:w-1/2 p-4'>Frugal Feast is a practical service dedicated to helping individuals save money on groceries and make the most of their ingredients. Whether you're looking to cut down on your food expenses or find creative ways to use up what you already have, Frugal Feast offers tailored solutions and recipes that transform your pantry staples into delicious, cost-effective meals.</p>
       </div>
       <div className='grid grid-cols-1  md:grid-cols-3 mx-auto gap-32 text-center mb-14'>
