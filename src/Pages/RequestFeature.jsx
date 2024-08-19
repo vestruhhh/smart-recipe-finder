@@ -6,10 +6,10 @@ const RequestFeature = () => {
   return (
     <div className="flex flex-col min-h-screen">
       <Navbar />
-      <div className="bg-gray-800 text-white py-12">
+      <div className="bg-gray-800 text-white pt-8">
         <div className="max-w-screen-lg mx-auto text-center">
           <h1 className="text-3xl font-bold mb-4">Request a New Feature</h1>
-          <p className="text-lg mb-8">Help us improve by sharing your ideas with us!</p>
+          <p className="text-sm mb-8 font-light">Help us improve by sharing your ideas with us!</p>
         </div>
       </div>
       <main className="flex-grow">
@@ -20,7 +20,7 @@ const RequestFeature = () => {
               <p className='text-white text-sm'>Anything you're missing in our product? Drop a message below and let us know!</p>
             </div>
             <p className='font-bold text-white mb-2'>Please describe the feature you need *</p>
-            <p className='text-white mb-4'>The more detail you can share the better.</p>
+            <p className='text-white mb-4 text-sm'>The more detail you can share the better.</p>
             <label htmlFor="message" className="block mb-2 text-sm font-medium text-white">Your message</label>
             <textarea
               id="message"
