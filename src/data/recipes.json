@@ -4,18 +4,18 @@
     "title": "Spaghetti Carbonara",
     "ingredients": [
       "spaghetti",
-      "egg",
+      "Egg",
       "parmesan",
       "pancetta",
       "black pepper"
     ],
     "instructions": "Cook spaghetti. Fry pancetta. Mix eggs and cheese. Combine all.",
     "time": "30 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "egg",
-      "dairy"
+      "Gluten",
+      "Egg",
+      "Dairy"
     ],
     "img": "../Images/Recipes/spaghetti_carbonara.jpg"
   },
@@ -33,9 +33,9 @@
     ],
     "instructions": "Sauté onions, garlic, and ginger. Add chicken and curry powder. Stir in tomatoes and coconut milk. Simmer.",
     "time": "45 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/chicken_curry.jpg"
   },
@@ -52,9 +52,9 @@
     ],
     "instructions": "Stir-fry vegetables with garlic and ginger. Add soy sauce and cook until tender.",
     "time": "20 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "soy"
+      "Soy"
     ],
     "img": "../Images/Recipes/vegetable_stir_fry.jpg"
   },
@@ -69,11 +69,11 @@
     ],
     "instructions": "Toss lettuce with Caesar dressing. Top with croutons and parmesan.",
     "time": "15 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "dairy",
-      "fish"
+      "Gluten",
+      "Dairy",
+      "Fish"
     ],
     "img": "../Images/Recipes/caesar_salad.jpg"
   },
@@ -90,9 +90,9 @@
     ],
     "instructions": "Cook quinoa and let it cool. Mix with vegetables, feta, and olives. Dress with lemon juice.",
     "time": "25 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/quinoa_salad.jpg"
   },
@@ -109,10 +109,10 @@
     ],
     "instructions": "Cook beef with taco seasoning. Fill tortillas with beef, lettuce, cheese, and salsa.",
     "time": "30 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/beef_tacos.jpg"
   },
@@ -129,9 +129,9 @@
     ],
     "instructions": "Sauté onions and garlic. Add mushrooms and rice. Gradually stir in broth until rice is cooked. Finish with parmesan.",
     "time": "40 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/mushroom_risotto.jpg"
   },
@@ -147,9 +147,9 @@
     ],
     "instructions": "Blend all ingredients until smooth.",
     "time": "10 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/greek_yogurt_smoothie.jpg"
   },
@@ -166,9 +166,9 @@
     ],
     "instructions": "Season salmon with salt, pepper, and dill. Bake with lemon slices on top until cooked through.",
     "time": "25 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "fish"
+      "Fish"
     ],
     "img": "../Images/Recipes/baked_salmon.jpg"
   },
@@ -184,9 +184,9 @@
     ],
     "instructions": "Cut sweet potatoes into fries. Toss with olive oil, paprika, salt, and pepper. Bake until crispy.",
     "time": "35 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/sweet_potato_fries.jpg"
   },
@@ -203,10 +203,10 @@
     ],
     "instructions": "Cook fettuccine. Sauté chicken with garlic. Make Alfredo sauce with cream, butter, and parmesan. Combine all.",
     "time": "40 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/chicken_alfredo.jpg"
   },
@@ -223,9 +223,9 @@
     ],
     "instructions": "Sauté onions, carrots, and celery. Add potatoes, tomatoes, and broth. Simmer until vegetables are tender.",
     "time": "40 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/vegetable_soup.jpg"
   },
@@ -235,18 +235,18 @@
     "ingredients": [
       "flour",
       "milk",
-      "egg",
+      "Egg",
       "baking powder",
       "sugar",
       "butter"
     ],
     "instructions": "Mix dry ingredients. Add milk, egg, and melted butter. Cook on a griddle until golden brown.",
     "time": "20 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "egg",
-      "dairy"
+      "Gluten",
+      "Egg",
+      "Dairy"
     ],
     "img": "../Images/Recipes/pancakes.jpg"
   },
@@ -262,9 +262,9 @@
     ],
     "instructions": "Layer tomatoes and mozzarella. Top with basil. Drizzle with olive oil and balsamic vinegar.",
     "time": "10 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/caprese_salad.jpg"
   },
@@ -281,10 +281,10 @@
     ],
     "instructions": "Mix tuna with mayonnaise, celery, onion, and pickles. Serve over lettuce.",
     "time": "15 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "fish",
-      "egg"
+      "Fish",
+      "Egg"
     ],
     "img": "../Images/Recipes/tuna_salad.jpg"
   },
@@ -301,9 +301,9 @@
     ],
     "instructions": "Sauté onions and garlic. Add lentils, tomatoes, and spices. Simmer until lentils are tender.",
     "time": "45 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/lentil_chili.jpg"
   },
@@ -320,10 +320,10 @@
     ],
     "instructions": "Cook pasta. Sauté vegetables in olive oil. Toss with pasta and parmesan.",
     "time": "30 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/pasta_primavera.jpg"
   },
@@ -340,9 +340,9 @@
     ],
     "instructions": "Brown beef and set aside. Sauté onions, garlic, and mushrooms. Add broth and sour cream. Combine with beef.",
     "time": "35 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/beef_stroganoff.jpg"
   },
@@ -356,10 +356,10 @@
     ],
     "instructions": "Butter bread slices. Place cheese between them. Grill until golden brown.",
     "time": "10 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/grilled_cheese_sandwich.jpg"
   },
@@ -368,7 +368,7 @@
     "title": "Egg Fried Rice",
     "ingredients": [
       "rice",
-      "egg",
+      "Egg",
       "soy sauce",
       "green onions",
       "carrot",
@@ -376,11 +376,11 @@
     ],
     "instructions": "Cook rice. Scramble eggs. Stir-fry vegetables. Combine all with soy sauce.",
     "time": "20 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "egg",
-      "soy"
+      "Gluten",
+      "Egg",
+      "Soy"
     ],
     "img": "../Images/Recipes/egg_fried_rice.jpg"
   },
@@ -396,10 +396,10 @@
     ],
     "instructions": "Make dough with flour and butter. Fill with apples mixed with sugar and cinnamon. Bake until golden.",
     "time": "1 hour 30 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/apple_pie.jpg"
   },
@@ -415,10 +415,10 @@
     ],
     "instructions": "Grill chicken. Slice and wrap in a tortilla with lettuce, dressing, and parmesan.",
     "time": "25 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "dairy",
+      "Gluten",
+      "Dairy",
       "fish"
     ],
     "img": "../Images/Recipes/chicken_caesar_wrap.jpg"
@@ -436,9 +436,9 @@
     ],
     "instructions": "Sauté onions and garlic. Add tomatoes and broth. Simmer and blend. Stir in cream and basil.",
     "time": "45 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/tomato_basil_soup.jpg"
   },
@@ -455,10 +455,10 @@
     ],
     "instructions": "Sauté garlic in butter. Add shrimp and cook until pink. Deglaze with wine and lemon juice. Garnish with parsley.",
     "time": "20 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
       "shellfish",
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/shrimp_scampi.jpg"
   },
@@ -475,9 +475,9 @@
     ],
     "instructions": "Cook beef with onions. Mix with rice and tomato sauce. Stuff peppers and bake. Top with cheese.",
     "time": "1 hour",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/stuffed_peppers.jpg"
   },
@@ -494,10 +494,10 @@
     ],
     "instructions": "Beat eggs. Pour into a pan and cook until slightly set. Add vegetables and cheese. Fold and finish cooking.",
     "time": "15 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "egg",
-      "dairy"
+      "Egg",
+      "Dairy"
     ],
     "img": "../Images/Recipes/omelette.jpg"
   },
@@ -514,10 +514,10 @@
     ],
     "instructions": "Sauté onions, carrots, and celery. Add chicken and broth. Simmer. Add noodles and cook until tender.",
     "time": "1 hour",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "egg"
+      "Gluten",
+      "Egg"
     ],
     "img": "../Images/Recipes/chicken_noodle_soup.jpg"
   },
@@ -534,11 +534,11 @@
     ],
     "instructions": "Mix dry ingredients. Add butter and eggs. Pour into a pan and bake until a toothpick comes out clean.",
     "time": "1 hour",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "egg",
-      "dairy"
+      "Gluten",
+      "Egg",
+      "Dairy"
     ],
     "img": "../Images/Recipes/chocolate_cake.jpg"
   },
@@ -555,9 +555,9 @@
     ],
     "instructions": "Blend chickpeas, onion, garlic, parsley, and spices. Form into balls and fry until golden.",
     "time": "30 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "gluten"
+      "Gluten"
     ],
     "img": "../Images/Recipes/falafel.jpg"
   },
@@ -574,10 +574,10 @@
     ],
     "instructions": "Cook macaroni. Make cheese sauce with butter, flour, milk, and cheese. Combine with macaroni and bake with bread crumbs.",
     "time": "45 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/mac_and_cheese.jpg"
   },
@@ -592,9 +592,9 @@
     ],
     "instructions": "Season wings with garlic powder and paprika. Bake and baste with BBQ sauce until glazed.",
     "time": "50 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/bbq_chicken_wings.jpg"
   },
@@ -611,10 +611,10 @@
     ],
     "instructions": "Cook couscous and let it cool. Mix with vegetables, feta, and olives. Dress with lemon juice.",
     "time": "25 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/couscous_salad.jpg"
   },
@@ -631,11 +631,11 @@
     ],
     "instructions": "Grill fish and flake. Fill tortillas with fish, cabbage, sour cream, and salsa. Squeeze lime over.",
     "time": "20 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
       "fish",
-      "dairy",
-      "gluten"
+      "Dairy",
+      "Gluten"
     ],
     "img": "../Images/Recipes/fish_tacos.jpg"
   },
@@ -651,9 +651,9 @@
     ],
     "instructions": "Toast bread. Mash avocado with lemon juice, salt, and pepper. Spread on toast.",
     "time": "10 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "gluten"
+      "Gluten"
     ],
     "img": "../Images/Recipes/avocado_toast.jpg"
   },
@@ -665,16 +665,16 @@
       "sugar",
       "blueberries",
       "butter",
-      "egg",
+      "Egg",
       "baking powder"
     ],
     "instructions": "Mix dry ingredients. Add butter, egg, and milk. Fold in blueberries. Pour into muffin tin and bake.",
     "time": "30 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "egg",
-      "dairy"
+      "Gluten",
+      "Egg",
+      "Dairy"
     ],
     "img": "../Images/Recipes/blueberry_muffins.jpg"
   },
@@ -690,9 +690,9 @@
     ],
     "instructions": "Grate cauliflower into rice-sized pieces. Sauté with olive oil and garlic until tender.",
     "time": "15 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/cauliflower_rice.jpg"
   },
@@ -708,9 +708,9 @@
     ],
     "instructions": "Marinate chicken in lemon, garlic, and thyme. Grill or bake until cooked through.",
     "time": "35 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/lemon_chicken.jpg"
   },
@@ -719,7 +719,7 @@
     "title": "French Toast",
     "ingredients": [
       "bread",
-      "egg",
+      "Egg",
       "milk",
       "cinnamon",
       "vanilla extract",
@@ -727,11 +727,11 @@
     ],
     "instructions": "Mix egg, milk, cinnamon, and vanilla. Dip bread and fry in butter until golden.",
     "time": "20 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "egg",
-      "dairy"
+      "Gluten",
+      "Egg",
+      "Dairy"
     ],
     "img": "../Images/Recipes/french_toast.jpg"
   },
@@ -748,9 +748,9 @@
     ],
     "instructions": "Sauté onion. Add vegetables and curry powder. Stir in coconut milk and simmer until tender.",
     "time": "40 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/vegetable_curry.jpg"
   },
@@ -762,16 +762,16 @@
       "flour",
       "sugar",
       "butter",
-      "egg",
+      "Egg",
       "baking soda"
     ],
     "instructions": "Mix dry ingredients. Add mashed bananas, butter, and egg. Pour into a loaf pan and bake.",
     "time": "1 hour",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "egg",
-      "dairy"
+      "Gluten",
+      "Egg",
+      "Dairy"
     ],
     "img": "../Images/Recipes/banana_bread.jpg"
   },
@@ -788,9 +788,9 @@
     ],
     "instructions": "Toast bread slices. Mix chopped tomatoes, basil, garlic, olive oil, and balsamic vinegar. Spoon mixture onto toasted bread.",
     "time": "15 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten"
+      "Gluten"
     ],
     "img": "../Images/Recipes/tomato_basil_bruschetta.jpg"
   },
@@ -806,10 +806,10 @@
     ],
     "instructions": "Cook pasta. Toss with basil pesto, olive oil, and top with parmesan and pine nuts.",
     "time": "20 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "dairy",
+      "Gluten",
+      "Dairy",
       "nuts"
     ],
     "img": "../Images/Recipes/pesto_pasta.jpg"
@@ -827,9 +827,9 @@
     ],
     "instructions": "Mix chickpeas with chopped cucumber, tomatoes, onion, and feta. Dress with lemon juice.",
     "time": "15 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/chickpea_salad.jpg"
   },
@@ -845,10 +845,10 @@
     ],
     "instructions": "Remove mushroom stems. Mix cream cheese with parmesan, garlic, and breadcrumbs. Stuff mushrooms and bake.",
     "time": "25 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy",
-      "gluten"
+      "Dairy",
+      "Gluten"
     ],
     "img": "../Images/Recipes/stuffed_mushrooms.jpg"
   },
@@ -865,10 +865,10 @@
     ],
     "instructions": "Form beef into patties and grill. Assemble burgers with cheese, lettuce, tomato, and onion on buns.",
     "time": "30 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/beef_burgers.jpg"
   },
@@ -885,10 +885,10 @@
     ],
     "instructions": "Mix sliced peaches with sugar and cinnamon. Top with a mixture of flour, sugar, oats, and butter. Bake until bubbly.",
     "time": "50 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/peach_crisp.jpg"
   },
@@ -905,9 +905,9 @@
     ],
     "instructions": "Mix spinach, artichokes, cream cheese, parmesan, garlic, and sour cream. Bake until hot and bubbly.",
     "time": "30 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/spinach_artichoke_dip.jpg"
   },
@@ -924,10 +924,10 @@
     ],
     "instructions": "Cook ziti and mix with marinara sauce and cooked ground beef. Top with mozzarella and parmesan. Bake until bubbly.",
     "time": "45 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/baked_ziti.jpg"
   },
@@ -944,10 +944,10 @@
     ],
     "instructions": "Whisk eggs and milk. Pour into a skillet with sautéed vegetables. Cook until set, then broil to finish.",
     "time": "30 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "egg",
-      "dairy"
+      "Egg",
+      "Dairy"
     ],
     "img": "../Images/Recipes/vegetable_frittata.jpg"
   },
@@ -963,7 +963,7 @@
     ],
     "instructions": "Marinate chicken in teriyaki sauce with ginger and garlic. Grill or bake and garnish with green onions.",
     "time": "35 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
       "soy"
     ],
@@ -982,9 +982,9 @@
     ],
     "instructions": "Shred cooked chicken and mix with diced avocado, celery, red onion, lime juice, and cilantro.",
     "time": "20 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/avocado_chicken_salad.jpg"
   },
@@ -1000,10 +1000,10 @@
     ],
     "instructions": "Sauté shrimp in butter with garlic. Finish with lemon juice and parsley.",
     "time": "15 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
       "shellfish",
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/garlic_butter_shrimp.jpg"
   },
@@ -1018,9 +1018,9 @@
     ],
     "instructions": "Cook rice in coconut milk with salt and a bit of sugar until tender.",
     "time": "20 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/coconut_rice.jpg"
   },
@@ -1036,9 +1036,9 @@
     ],
     "instructions": "Coat cauliflower florets in flour and bake. Toss with buffalo sauce and bake again.",
     "time": "35 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "gluten"
+      "Gluten"
     ],
     "img": "../Images/Recipes/buffalo_cauliflower_bites.jpg"
   },
@@ -1054,9 +1054,9 @@
     ],
     "instructions": "Mix diced mango, red onion, cilantro, lime juice, and finely chopped jalapeño.",
     "time": "10 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/mango_salsa.jpg"
   },
@@ -1072,10 +1072,10 @@
     ],
     "instructions": "Cook chicken and slice. Fill tortillas with chicken, cheese, and vegetables. Cook until cheese melts.",
     "time": "25 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/chicken_quesadillas.jpg"
   },
@@ -1092,10 +1092,10 @@
     ],
     "instructions": "Prepare dough with flour, sugar, butter, and yeast. Roll with cinnamon sugar, cut into rolls, and bake.",
     "time": "2 hours",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/cinnamon_rolls.jpg"
   },
@@ -1111,9 +1111,9 @@
     ],
     "instructions": "Cook chicken and vegetables. Add pineapple and sauce. Simmer until heated through.",
     "time": "30 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/sweet_and_sour_chicken.jpg"
   },
@@ -1131,9 +1131,9 @@
     ],
     "instructions": "Mix chopped vegetables with olives, feta, and oregano. Dress with olive oil.",
     "time": "10 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/greek_salad.jpg"
   },
@@ -1149,10 +1149,10 @@
     ],
     "instructions": "Top pita bread with tomato sauce, cheese, and pepperoni. Bake until cheese is melted. Garnish with basil.",
     "time": "15 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/pita_bread_pizza.jpg"
   },
@@ -1168,9 +1168,9 @@
     ],
     "instructions": "Toss brussels sprouts with olive oil, garlic, salt, and pepper. Roast until crispy.",
     "time": "25 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/roasted_brussels_sprouts.jpg"
   },
@@ -1187,9 +1187,9 @@
     ],
     "instructions": "Sauté onions and garlic. Add pumpkin and broth. Simmer and blend. Stir in cream and nutmeg.",
     "time": "40 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/pumpkin_soup.jpg"
   },
@@ -1205,7 +1205,7 @@
     ],
     "instructions": "Blend chickpeas with tahini, lemon juice, garlic, and cayenne pepper until smooth.",
     "time": "10 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
       "sesame"
     ],
@@ -1223,9 +1223,9 @@
     ],
     "instructions": "Cook chicken with bell peppers and onions. Season with fajita seasoning. Serve with tortillas.",
     "time": "30 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten"
+      "Gluten"
     ],
     "img": "../Images/Recipes/chicken_fajitas.jpg"
   },
@@ -1238,16 +1238,16 @@
       "sugar",
       "brown sugar",
       "chocolate chips",
-      "egg",
+      "Egg",
       "vanilla extract"
     ],
     "instructions": "Cream butter and sugars. Mix in eggs and vanilla. Add flour and chocolate chips. Bake until golden.",
     "time": "30 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "dairy",
-      "egg"
+      "Gluten",
+      "Dairy",
+      "Egg"
     ],
     "img": "../Images/Recipes/chocolate_chip_cookies.jpg"
   },
@@ -1265,9 +1265,9 @@
     ],
     "instructions": "Sauté onions and garlic. Add vegetables and cook until tender. Season with herbs.",
     "time": "45 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/ratatouille.jpg"
   },
@@ -1282,9 +1282,9 @@
     ],
     "instructions": "Blend berries, banana, yogurt, and honey until smooth.",
     "time": "10 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/fruit_smoothie.jpg"
   },
@@ -1301,7 +1301,7 @@
     ],
     "instructions": "Stir-fry beef with garlic and ginger. Add vegetables and soy sauce. Cook until tender.",
     "time": "25 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
       "soy"
     ],
@@ -1320,9 +1320,9 @@
     ],
     "instructions": "Blend chickpeas with onions, garlic, and spices. Form into balls and fry.",
     "time": "40 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "gluten"
+      "Gluten"
     ],
     "img": "../Images/Recipes/falafel.jpg"
   },
@@ -1337,10 +1337,10 @@
     ],
     "instructions": "Toss lettuce with Caesar dressing. Top with croutons and parmesan cheese.",
     "time": "10 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy",
-      "gluten"
+      "Dairy",
+      "Gluten"
     ],
     "img": "../Images/Recipes/caesar_salad.jpg"
   },
@@ -1356,11 +1356,11 @@
     ],
     "instructions": "Prepare crust with flour and butter. Bake, then top with lemon filling and bake again.",
     "time": "1 hour",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "dairy",
-      "egg"
+      "Gluten",
+      "Dairy",
+      "Egg"
     ],
     "img": "../Images/Recipes/lemon_bars.jpg"
   },
@@ -1376,10 +1376,10 @@
     ],
     "instructions": "Bread and fry eggplant slices. Layer with marinara sauce and cheeses. Bake until bubbly.",
     "time": "1 hour",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/eggplant_parmesan.jpg"
   },
@@ -1395,9 +1395,9 @@
     ],
     "instructions": "Mix Greek yogurt with grated cucumber, garlic, lemon juice, and dill.",
     "time": "10 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/tzatziki_sauce.jpg"
   },
@@ -1414,11 +1414,11 @@
     ],
     "instructions": "Mix eggs and cream. Add bacon, cheese, and onion. Pour into crust and bake.",
     "time": "50 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "dairy",
-      "egg"
+      "Gluten",
+      "Dairy",
+      "Egg"
     ],
     "img": "../Images/Recipes/quiche_lorraine.jpg"
   },
@@ -1434,10 +1434,10 @@
     ],
     "instructions": "Cook pasta. Sauté chicken and garlic. Add cream and cheese. Mix with pasta.",
     "time": "30 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "gluten",
-      "dairy"
+      "Gluten",
+      "Dairy"
     ],
     "img": "../Images/Recipes/chicken_alfredo.jpg"
   },
@@ -1452,10 +1452,10 @@
     ],
     "instructions": "Melt chocolate and mix with whipped cream. Fold in beaten egg whites and sugar.",
     "time": "30 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
-      "dairy",
-      "egg"
+      "Dairy",
+      "Egg"
     ],
     "img": "../Images/Recipes/chocolate_mousse.jpg"
   },
@@ -1472,7 +1472,7 @@
     ],
     "instructions": "Simmer chicken with lemongrass and lime leaves. Add mushrooms and chili paste. Season with fish sauce.",
     "time": "30 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
       "fish"
     ],
@@ -1490,7 +1490,7 @@
     ],
     "instructions": "Season salmon with lemon, dill, olive oil, and garlic. Bake until cooked through.",
     "time": "20 minutes",
-    "diet": "none",
+    "diet": "None",
     "allergies": [
       "fish"
     ],
@@ -1508,9 +1508,9 @@
     ],
     "instructions": "Cook rice in milk with sugar. Add cinnamon and vanilla extract. Simmer until thickened.",
     "time": "45 minutes",
-    "diet": "vegetarian",
+    "diet": "Vegetarian",
     "allergies": [
-      "dairy"
+      "Dairy"
     ],
     "img": "../Images/Recipes/rice_pudding.jpg"
   },
@@ -1527,10 +1527,519 @@
     ],
     "instructions": "Simmer vegetables in broth until tender. Season to taste.",
     "time": "40 minutes",
-    "diet": "vegan",
+    "diet": "Vegan",
     "allergies": [
-      "none"
+      "None"
     ],
     "img": "../Images/Recipes/vegetable_soup.jpg"
+  },
+  {
+    "id": "81",
+    "title": "Keto Avocado Chicken Salad",
+    "ingredients": [
+      "chicken breast",
+      "avocado",
+      "celery",
+      "mayonnaise",
+      "lemon juice",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Mix cooked chicken with diced avocado, celery, mayo, lemon juice, salt, and pepper.",
+    "time": "15 minutes",
+    "diet": "Ketogenic",
+    "allergies": [
+      "Egg",
+      "mayonnaise"
+    ],
+    "img": "../Images/Recipes/keto_avocado_chicken_salad.jpg"
+  },
+  {
+    "id": "82",
+    "title": "Keto Shrimp Scampi",
+    "ingredients": [
+      "shrimp",
+      "butter",
+      "garlic",
+      "lemon juice",
+      "parsley",
+      "zucchini noodles"
+    ],
+    "instructions": "Sauté shrimp in butter with garlic, add lemon juice and parsley, and serve over zucchini noodles.",
+    "time": "20 minutes",
+    "diet": "Ketogenic",
+    "allergies": [
+      "shellfish"
+    ],
+    "img": "../Images/Recipes/keto_shrimp_scampi.jpg"
+  },
+  {
+    "id": "83",
+    "title": "Keto Meatza",
+    "ingredients": [
+      "ground beef",
+      "Egg",
+      "cheese",
+      "tomato sauce (sugar-free)",
+      "pepperoni",
+      "bell peppers"
+    ],
+    "instructions": "Mix ground beef with egg and cheese, press into a pan, bake, then top with tomato sauce, pepperoni, and vegetables.",
+    "time": "45 minutes",
+    "diet": "Ketogenic",
+    "allergies": [
+      "Dairy",
+      "Egg"
+    ],
+    "img": "../Images/Recipes/keto_meatza.jpg"
+  },
+  {
+    "id": "84",
+    "title": "Keto Chicken Casserole",
+    "ingredients": [
+      "chicken breast",
+      "broccoli",
+      "cheddar cheese",
+      "cream cheese",
+      "garlic",
+      "butter"
+    ],
+    "instructions": "Mix cooked chicken with broccoli, cheeses, and garlic. Pour into a baking dish and bake until bubbly.",
+    "time": "40 minutes",
+    "diet": "Ketogenic",
+    "allergies": [
+      "Dairy"
+    ],
+    "img": "../Images/Recipes/keto_chicken_casserole.jpg"
+  },
+  {
+    "id": "85",
+    "title": "Keto Beef Tacos",
+    "ingredients": [
+      "ground beef",
+      "taco seasoning (sugar-free)",
+      "lettuce leaves",
+      "cheese",
+      "sour cream"
+    ],
+    "instructions": "Cook beef with seasoning. Serve in lettuce leaves with cheese and sour cream.",
+    "time": "25 minutes",
+    "diet": "Ketogenic",
+    "allergies": [
+      "Dairy"
+    ],
+    "img": "../Images/Recipes/keto_beef_tacos.jpg"
+  },
+  {
+    "id": "86",
+    "title": "Paleo Grilled Chicken Salad",
+    "ingredients": [
+      "chicken breast",
+      "mixed greens",
+      "avocado",
+      "tomatoes",
+      "olive oil",
+      "balsamic vinegar"
+    ],
+    "instructions": "Grill chicken and slice. Toss mixed greens with avocado, tomatoes, olive oil, and balsamic vinegar. Top with chicken.",
+    "time": "25 minutes",
+    "diet": "Paleolithic",
+    "allergies": [
+      "None"
+    ],
+    "img": "../Images/Recipes/paleo_grilled_chicken_salad.jpg"
+  },
+  {
+    "id": "87",
+    "title": "Paleo Salmon Salad",
+    "ingredients": [
+      "canned salmon",
+      "mixed greens",
+      "cucumber",
+      "olive oil",
+      "lemon juice"
+    ],
+    "instructions": "Mix canned salmon with mixed greens, cucumber, olive oil, and lemon juice.",
+    "time": "15 minutes",
+    "diet": "Paleolithic",
+    "allergies": [
+      "fish"
+    ],
+    "img": "../Images/Recipes/paleo_salmon_salad.jpg"
+  },
+  {
+    "id": "88",
+    "title": "Paleo Stuffed Portobello Mushrooms",
+    "ingredients": [
+      "portobello mushrooms",
+      "ground beef",
+      "spinach",
+      "garlic",
+      "olive oil"
+    ],
+    "instructions": "Stuff mushrooms with a mixture of ground beef, spinach, and garlic, then bake.",
+    "time": "30 minutes",
+    "diet": "Paleolithic",
+    "allergies": [
+      "None"
+    ],
+    "img": "../Images/Recipes/paleo_stuffed_portobello_mushrooms.jpg"
+  },
+  {
+    "id": "89",
+    "title": "Paleo Roasted Brussels Sprouts",
+    "ingredients": [
+      "brussels sprouts",
+      "olive oil",
+      "garlic",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Toss Brussels sprouts with olive oil, garlic, salt, and pepper, then roast.",
+    "time": "25 minutes",
+    "diet": "Paleolithic",
+    "allergies": [
+      "None"
+    ],
+    "img": "../Images/Recipes/paleo_roasted_brussels_sprouts.jpg"
+  },
+  {
+    "id": "90",
+    "title": "Paleo Chicken Stir-Fry",
+    "ingredients": [
+      "chicken breast",
+      "broccoli",
+      "bell peppers",
+      "coconut aminos",
+      "ginger"
+    ],
+    "instructions": "Stir-fry chicken with vegetables and coconut aminos, add ginger.",
+    "time": "20 minutes",
+    "diet": "Paleolithic",
+    "allergies": [
+      "None"
+    ],
+    "img": "../Images/Recipes/paleo_chicken_stir_fry.jpg"
+  },
+  {
+    "id": "91",
+    "title": "Mediterranean Baked Fish",
+    "ingredients": [
+      "white fish fillets",
+      "olive oil",
+      "lemon",
+      "oregano",
+      "tomatoes"
+    ],
+    "instructions": "Season fish with olive oil, lemon, oregano, and tomatoes, then bake.",
+    "time": "25 minutes",
+    "diet": "Mediterranean",
+    "allergies": [
+      "fish"
+    ],
+    "img": "../Images/Recipes/mediterranean_baked_fish.jpg"
+  },
+  {
+    "id": "92",
+    "title": "Mediterranean Chickpea Salad",
+    "ingredients": [
+      "chickpeas",
+      "cucumber",
+      "tomatoes",
+      "red onion",
+      "feta cheese",
+      "olive oil",
+      "lemon juice"
+    ],
+    "instructions": "Mix chickpeas with chopped vegetables, feta, olive oil, and lemon juice.",
+    "time": "20 minutes",
+    "diet": "Mediterranean",
+    "allergies": [
+      "Dairy"
+    ],
+    "img": "../Images/Recipes/mediterranean_chickpea_salad.jpg"
+  },
+  {
+    "id": "93",
+    "title": "Mediterranean Stuffed Eggplant",
+    "ingredients": [
+      "eggplants",
+      "ground lamb",
+      "tomatoes",
+      "onions",
+      "feta cheese",
+      "olive oil"
+    ],
+    "instructions": "Stuff eggplants with a mixture of ground lamb, tomatoes, onions, and top with feta cheese, then bake.",
+    "time": "45 minutes",
+    "diet": "Mediterranean",
+    "allergies": [
+      "Dairy"
+    ],
+    "img": "../Images/Recipes/mediterranean_stuffed_eggplant.jpg"
+  },
+  {
+    "id": "94",
+    "title": "Mediterranean Greek Salad",
+    "ingredients": [
+      "cucumbers",
+      "tomatoes",
+      "red onion",
+      "feta cheese",
+      "olives",
+      "olive oil",
+      "oregano"
+    ],
+    "instructions": "Combine cucumbers, tomatoes, onion, feta, and olives. Dress with olive oil and oregano.",
+    "time": "15 minutes",
+    "diet": "Mediterranean",
+    "allergies": [
+      "Dairy"
+    ],
+    "img": "../Images/Recipes/mediterranean_greek_salad.jpg"
+  },
+  {
+    "id": "95",
+    "title": "Mediterranean Lentil Soup",
+    "ingredients": [
+      "lentils",
+      "carrots",
+      "celery",
+      "onions",
+      "tomatoes",
+      "olive oil",
+      "herbs"
+    ],
+    "instructions": "Cook lentils with vegetables, tomatoes, olive oil, and herbs until tender.",
+    "time": "45 minutes",
+    "diet": "Mediterranean",
+    "allergies": [
+      "None"
+    ],
+    "img": "../Images/Recipes/mediterranean_lentil_soup.jpg"
+  },
+  {
+    "id": "96",
+    "title": "Keto Zucchini Lasagna",
+    "ingredients": [
+      "zucchini",
+      "ground beef",
+      "tomato sauce (sugar-free)",
+      "mozzarella cheese",
+      "parmesan cheese",
+      "herbs"
+    ],
+    "instructions": "Layer slices of zucchini with ground beef, tomato sauce, and cheeses. Bake until bubbly.",
+    "time": "45 minutes",
+    "diet": "Ketogenic",
+    "allergies": [
+      "Dairy"
+    ],
+    "img": "../Images/Recipes/keto_zucchini_lasagna.jpg"
+  },
+  {
+    "id": "97",
+    "title": "Keto Egg Muffins",
+    "ingredients": [
+      "eggs",
+      "spinach",
+      "bacon",
+      "cheddar cheese",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Mix eggs with spinach, cooked bacon, cheese, salt, and pepper. Pour into muffin tins and bake.",
+    "time": "25 minutes",
+    "diet": "Ketogenic",
+    "allergies": [
+      "Egg",
+      "Dairy"
+    ],
+    "img": "../Images/Recipes/keto_egg_muffins.jpg"
+  },
+  {
+    "id": "98",
+    "title": "Keto Broccoli Cheddar Soup",
+    "ingredients": [
+      "broccoli",
+      "cheddar cheese",
+      "cream",
+      "chicken broth",
+      "onion",
+      "garlic"
+    ],
+    "instructions": "Cook broccoli with onions and garlic in chicken broth. Blend, then stir in cream and cheddar cheese.",
+    "time": "30 minutes",
+    "diet": "Ketogenic",
+    "allergies": [
+      "Dairy"
+    ],
+    "img": "../Images/Recipes/keto_broccoli_cheddar_soup.jpg"
+  },
+  {
+    "id": "99",
+    "title": "Keto Buffalo Cauliflower Bites",
+    "ingredients": [
+      "cauliflower",
+      "buffalo sauce (sugar-free)",
+      "butter",
+      "garlic powder"
+    ],
+    "instructions": "Toss cauliflower with buffalo sauce and melted butter. Bake until crispy.",
+    "time": "30 minutes",
+    "diet": "Ketogenic",
+    "allergies": [
+      "None"
+    ],
+    "img": "../Images/Recipes/keto_buffalo_cauliflower_bites.jpg"
+  },
+  {
+    "id": "100",
+    "title": "Paleo Breakfast Hash",
+    "ingredients": [
+      "ground pork",
+      "sweet potatoes",
+      "onions",
+      "bell peppers",
+      "olive oil",
+      "herbs"
+    ],
+    "instructions": "Cook ground pork with diced sweet potatoes, onions, and bell peppers in olive oil.",
+    "time": "30 minutes",
+    "diet": "Paleolithic",
+    "allergies": [
+      "None"
+    ],
+    "img": "../Images/Recipes/paleo_breakfast_hash.jpg"
+  },
+  {
+    "id": "101",
+    "title": "Paleo Coconut Chicken",
+    "ingredients": [
+      "chicken thighs",
+      "coconut milk",
+      "coconut flakes",
+      "garlic",
+      "lime juice"
+    ],
+    "instructions": "Marinate chicken in coconut milk, garlic, and lime juice. Coat with coconut flakes and bake.",
+    "time": "35 minutes",
+    "diet": "Paleolithic",
+    "allergies": [
+      "coconut"
+    ],
+    "img": "../Images/Recipes/paleo_coconut_chicken.jpg"
+  },
+  {
+    "id": "102",
+    "title": "Paleo Stuffed Acorn Squash",
+    "ingredients": [
+      "acorn squash",
+      "ground turkey",
+      "cranberries",
+      "onions",
+      "spinach",
+      "spices"
+    ],
+    "instructions": "Stuff acorn squash with a mixture of ground turkey, cranberries, onions, and spinach, then bake.",
+    "time": "45 minutes",
+    "diet": "Paleolithic",
+    "allergies": [
+      "None"
+    ],
+    "img": "../Images/Recipes/paleo_stuffed_acorn_squash.jpg"
+  },
+  {
+    "id": "103",
+    "title": "Paleo Eggplant Lasagna",
+    "ingredients": [
+      "eggplant",
+      "ground beef",
+      "tomato sauce",
+      "mozzarella cheese",
+      "spices"
+    ],
+    "instructions": "Layer slices of eggplant with ground beef and tomato sauce, then top with cheese and bake.",
+    "time": "45 minutes",
+    "diet": "Paleolithic",
+    "allergies": [
+      "Dairy"
+    ],
+    "img": "../Images/Recipes/paleo_eggplant_lasagna.jpg"
+  },
+  {
+    "id": "104",
+    "title": "Mediterranean Hummus",
+    "ingredients": [
+      "chickpeas",
+      "tahini",
+      "lemon juice",
+      "garlic",
+      "olive oil",
+      "cumin"
+    ],
+    "instructions": "Blend chickpeas with tahini, lemon juice, garlic, olive oil, and cumin until smooth.",
+    "time": "15 minutes",
+    "diet": "Mediterranean",
+    "allergies": [
+      "sesame"
+    ],
+    "img": "../Images/Recipes/mediterranean_hummus.jpg"
+  },
+  {
+    "id": "105",
+    "title": "Mediterranean Roasted Vegetables",
+    "ingredients": [
+      "zucchini",
+      "bell peppers",
+      "eggplant",
+      "olive oil",
+      "herbs"
+    ],
+    "instructions": "Toss vegetables with olive oil and herbs, then roast until tender.",
+    "time": "30 minutes",
+    "diet": "Mediterranean",
+    "allergies": [
+      "None"
+    ],
+    "img": "../Images/Recipes/mediterranean_roasted_vegetables.jpg"
+  },
+  {
+    "id": "106",
+    "title": "Mediterranean Fattoush Salad",
+    "ingredients": [
+      "mixed greens",
+      "tomatoes",
+      "cucumbers",
+      "radishes",
+      "pita bread (optional)",
+      "olive oil",
+      "lemon juice"
+    ],
+    "instructions": "Combine mixed greens with chopped vegetables and pita bread (if using). Dress with olive oil and lemon juice.",
+    "time": "20 minutes",
+    "diet": "Mediterranean",
+    "allergies": [
+      "Gluten"
+    ],
+    "img": "../Images/Recipes/mediterranean_fattoush_salad.jpg"
+  },
+  {
+    "id": "107",
+    "title": "Mediterranean Chicken Shawarma",
+    "ingredients": [
+      "chicken thighs",
+      "shawarma spices",
+      "yogurt",
+      "lemon juice",
+      "olive oil"
+    ],
+    "instructions": "Marinate chicken in yogurt, shawarma spices, lemon juice, and olive oil. Grill or bake.",
+    "time": "45 minutes",
+    "diet": "Mediterranean",
+    "allergies": [
+      "Dairy"
+    ],
+    "img": "../Images/Recipes/mediterranean_chicken_shawarma.jpg"
   }
 ]

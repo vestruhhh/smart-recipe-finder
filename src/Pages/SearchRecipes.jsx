@@ -1,7 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import Navbar from '../Components/Navbar';
 import Footer from '../Components/Footer';
 import recipeData from '../data/recipes.json';
+import images from '../utils/loadImage'; // Import the images
 
 const SearchRecipes = () => {
     const [searchInput, setSearchInput] = useState('');
@@ -10,33 +11,31 @@ const SearchRecipes = () => {
     const [timeFilter, setTimeFilter] = useState('');
     const [filteredRecipes, setFilteredRecipes] = useState(recipeData);
 
+    const convertTimeToMinutes = (time) => {
+        const match = time.match(/^(\d+)/);
+        return match ? parseInt(match[1], 10) : null;
+    };
+
     const handleSearch = (e) => {
         e.preventDefault();
-
-        const lowercasedSearchInput = searchInput.toLowerCase();
+        
+        const searchIngredients = searchInput.toLowerCase().split(',').map(ingredient => ingredient.trim());
 
         const filtered = recipeData.filter(recipe => {
-            // Check if recipe matches the search input
-            const matchesSearch = recipe.ingredients.some(ingredient =>
-                ingredient.toLowerCase().includes(lowercasedSearchInput)
+            const matchesSearch = searchIngredients.every(ingredient =>
+                recipe.ingredients.some(ing => ing.toLowerCase().includes(ingredient))
             );
 
-            // Check if recipe matches the selected diets
             const matchesDiet = selectedDiets.length === 0 || selectedDiets.includes(recipe.diet);
 
-            // Check if recipe matches the selected allergies
-            const matchesAllergies = selectedAllergies.every(allergy =>
-                !recipe.ingredients.some(ingredient =>
-                    ingredient.toLowerCase().includes(allergy.toLowerCase())
-                )
-            );
+            const matchesAllergies = selectedAllergies.length === 0 || 
+                !selectedAllergies.some(allergy => recipe.allergies.includes(allergy));
 
-            // Check if recipe matches the selected time filter
+            const recipeTime = convertTimeToMinutes(recipe.time);
             const matchesTime = timeFilter === '' || 
-                (timeFilter === 'under-30' && Number(recipe.time) <= 30) ||
-                (timeFilter === '30-60' && Number(recipe.time) > 30 && Number(recipe.time) <= 60);
+                (timeFilter === 'under-30' && recipeTime <= 30) ||
+                (timeFilter === '30-60' && recipeTime > 30 && recipeTime <= 60);
 
-            // Combine all filters
             return matchesSearch && matchesDiet && matchesAllergies && matchesTime;
         });
 
@@ -63,12 +62,15 @@ const SearchRecipes = () => {
         setTimeFilter(e.target.value);
     };
 
+    const displayedRecipes = useMemo(() => {
+        return filteredRecipes;
+    }, [filteredRecipes]);
+
     return (
         <>
             <Navbar />
             <div className='flex flex-col'>
-                {/* Search Form */}
-                <div className='bg-gray-200 p-4 border border-red-500'>
+                <div className='bg-gray-200 py-2'>
                     <form onSubmit={handleSearch}>
                         <div className='flex flex-col sm:flex-row justify-center bg-gray-300 p-2 w-full sm:w-3/4 md:w-1/2 lg:w-1/3 mx-auto items-center gap-2 rounded-full'>
                             <div>
@@ -78,31 +80,29 @@ const SearchRecipes = () => {
                             </div>
                             <input
                                 type="text"
-                                placeholder='Enter your ingredients: '
+                                placeholder='Search recipes by ingredients'
                                 className='w-full sm:w-64 md:w-80 rounded-full px-4'
                                 value={searchInput}
                                 onChange={(e) => setSearchInput(e.target.value)}
                             />
-                            <button type='submit' className='bg-blue-500 rounded-full px-4 py-1 font-bold'>Search</button>
+                            <button type='submit' className='bg-blue-500 rounded-full px-4 font-bold'>Search</button>
                         </div>
                     </form>
                 </div>
 
-                {/* Main Content */}
                 <div className='flex flex-col md:flex-row'>
-                    {/* Sidebar */}
                     <div className='bg-gray-100 p-4 w-full md:w-1/12'>
                         <div className='flex flex-col'>
                             <p className='font-bold underline underline-offset-2 text-center m-2'>Allergies</p>
                             <div className='space-y-2'>
-                                {['Nuts', 'Dairy', 'Eggs', 'Shellfish', 'Soy', 'Wheat', 'Sesame'].map(allergy => (
+                                {['Gluten', 'Egg', 'Dairy', 'Soy', 'Fish', 'Shellfish'].map(allergy => (
                                     <div className='flex items-center space-x-2' key={allergy}>
-                                        <label htmlFor={allergy} className='text-sm'>{allergy}</label>
                                         <input
                                             type="checkbox"
                                             id={allergy}
                                             onChange={() => toggleAllergy(allergy)}
                                         />
+                                        <label htmlFor={allergy} className='text-sm'>{allergy}</label>
                                     </div>
                                 ))}
                             </div>
@@ -111,12 +111,12 @@ const SearchRecipes = () => {
                             <div className='space-y-2'>
                                 {['Mediterranean', 'Ketogenic', 'Paleolithic', 'Vegan', 'Vegetarian'].map(diet => (
                                     <div className='flex items-center space-x-2' key={diet}>
-                                        <label htmlFor={diet} className='text-sm'>{diet}</label>
                                         <input
                                             type="checkbox"
                                             id={diet}
                                             onChange={() => toggleDiet(diet)}
                                         />
+                                        <label htmlFor={diet} className='text-sm'>{diet}</label>
                                     </div>
                                 ))}
                             </div>
@@ -140,13 +140,16 @@ const SearchRecipes = () => {
                         </div>
                     </div>
 
-                    {/* Recipe Cards */}
                     <div className='flex flex-wrap gap-4 p-4 w-full md:w-3/4 mx-auto'>
-                        {filteredRecipes.length > 0 ? (
-                            filteredRecipes.map((recipe) => (
+                        {displayedRecipes.length > 0 ? (
+                            displayedRecipes.map((recipe) => (
                                 <div className='rounded-md bg-gray-500 p-2 w-full sm:w-1/2 md:w-1/3 lg:w-1/6' key={recipe.id}>
                                     <div>
-                                        <img src={recipe.img} alt={recipe.title} className='rounded-lg' />
+                                        <img 
+                                            src={images[recipe.img]} 
+                                            alt={recipe.title} 
+                                            className='rounded-lg' 
+                                        />
                                     </div>
                                     <div className='p-1'>
                                         <p className='font-bold text-lg'>{recipe.title}</p>

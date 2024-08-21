@@ -2,16 +2,18 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Logo from '../Images/cheap-dollar.png';
 import Video from '../Videos/8581127-hd_1920_1080_30fps.mp4';
+import Navbar from '../Components/Navbar';
 
 const LandingPage = () => {
   return (
-    <section className='relative flex flex-col justify-center items-center h-screen overflow-hidden bg-black'>
-      <video
+    <section className='bg-gray-50 h-screen'>
+      <Navbar />
+      {/* <video
         src={Video}
         autoPlay
         loop
         muted
-        className='absolute top-0 left-0 w-full h-full object-cover blur-xl'
+        className='absolute top-0 left-0 w-full h-full object-cover blur-lg'
       />
       <div className='relative flex flex-col justify-center items-center p-4 w-full h-full max-w-5xl mx-auto'>
         <div className="flex flex-col sm:flex-row items-center mb-8">
@@ -35,16 +37,16 @@ const LandingPage = () => {
           </p>
         </div>
         <div className='flex flex-col sm:flex-row gap-4'>
-          <a href="#learn-about" class="rounded-md px-6 py-3 m-1 overflow-hidden relative group cursor-pointer border-2 font-medium border-fandangoPink text-black text-white">
-            <span class="absolute w-64 h-0 transition-all duration-300 origin-center rotate-45 -translate-x-20 bg-fandangoPink top-1/2 group-hover:h-64 group-hover:-translate-y-32 ease"></span>
+          <a href="#learn-about" class="rounded-md px-6 py-3 m-1 overflow-hidden relative group cursor-pointer border-2 font-medium border-blue-600 text-black text-white">
+            <span class="absolute w-64 h-0 transition-all duration-300 origin-center rotate-45 -translate-x-20 bg-blue-600 top-1/2 group-hover:h-64 group-hover:-translate-y-32 ease"></span>
             <span class="relative text-black transition duration-300 group-hover:text-white ease font-bold ">Get Started.</span>
           </a>
-          <Link to="./search" class="rounded-md px-6 py-3 m-1 overflow-hidden relative group cursor-pointer border-2 font-medium border-fandangoPink text-black text-white">
-            <span class="absolute w-64 h-0 transition-all duration-300 origin-center rotate-45 -translate-x-20 bg-fandangoPink top-1/2 group-hover:h-64 group-hover:-translate-y-32 ease"></span>
+          <Link to="./search" class="rounded-md px-6 py-3 m-1 overflow-hidden relative group cursor-pointer border-2 font-medium border-blue-600 text-black text-white">
+            <span class="absolute w-64 h-0 transition-all duration-300 origin-center rotate-45 -translate-x-20 bg-blue-600 top-1/2 group-hover:h-64 group-hover:-translate-y-32 ease"></span>
             <span class="relative text-black transition duration-300 group-hover:text-white ease font-bold">Find Recipes.</span>
           </Link>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 };
